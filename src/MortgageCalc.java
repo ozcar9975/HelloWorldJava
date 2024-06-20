@@ -1,7 +1,7 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class mortgage_calc {
+public class MortgageCalc {
 
     public static void main(String[] args) {
 
